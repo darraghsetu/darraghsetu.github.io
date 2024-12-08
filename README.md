@@ -5,7 +5,7 @@
 > 
 > I'm Currently a 2nd year student studying Software Systems Development student at [SETU Waterford](https://www.setu.ie/)
 >
-> Thanks for stopping by my little ol' GitHub Page
+> Thanks for stopping by [my little ol' GitHub](https://github.com/darraghsetu) Page
 
 ### Modules
 
