@@ -1,0 +1,6 @@
+# Build Settings
+markdown: kramdown
+remote-theme: pages-themes/slate@v0.2.0
+title: Darragh Drohan
+description: Little GitHub page for myself
+show_downloads: false
