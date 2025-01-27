@@ -3,11 +3,17 @@
 > 
 > I'm Currently a 2nd year student studying Software Systems Development student at [SETU Waterford](https://www.setu.ie/)
 >
-> Thanks for stopping by [my little ol' GitHub](https://github.com/darraghsetu) Page
+> Thanks for stopping by [my little ol' GitHub](https://github.com/darraghsetu) page
 
 ### Modules
 
 #### 2nd Year
+- Data Structures and Algorithms
+- Intro. to Computer Security
+- Database Systems
+- Web App. Development I
+- Sports and Exercise Biomechanics
+- Professional Practice
 ---
 - Software Development Tools
 - Database Fundamentals
@@ -18,14 +24,18 @@
 
 #### 1st Year
 ---
-- Programming Fundamentals
-- Intro. to Software Engineering
-- Website Development
-- Computer Systems
-- Systems Analysis, Design and Testing
-- Business Info. Systems and Processes
-- Mathematics Fundamentals
+- Programming Fundamentals II
+- Computer Systems II
+- Website Development II
 - Statistical Analysis
+- Intro. to Software Engineering
+- Business Info. Systems and Processes
+---
+- Programming Fundamentals I
+- Computer Systems I
+- Website Development I
+- Mathematics Fundamentals
+- Systems Analysis, Design and Testing
 - Communication Skills
 
 ### Skills
