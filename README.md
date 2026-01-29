@@ -14,7 +14,9 @@
 - Web App. Development I
 - Sports and Exercise Biomechanics
 - Professional Practice
+  
 ---
+
 - Software Development Tools
 - Database Fundamentals
 - Computer Networks
@@ -30,7 +32,9 @@
 - Statistical Analysis
 - Intro. to Software Engineering
 - Business Info. Systems and Processes
+
 ---
+
 - Programming Fundamentals I
 - Computer Systems I
 - Website Development I
@@ -44,8 +48,3 @@ Skills I've picked up from my course so far:
 - Programming: Java, Kotlin, JavaScript
 - Web Dev: HTML, CSS, MySQL
 - Misc: Word, Excel, Git, Figma, others I'm forgetting...
-
-### Projects to check out
----
-- My menu-based [Cinema System](https://github.com/darraghsetu/cinema-system) project for Software Development Tools
-- More to come!
